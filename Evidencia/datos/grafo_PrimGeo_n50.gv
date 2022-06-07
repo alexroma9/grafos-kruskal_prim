@@ -1,0 +1,4 @@
+graph #nombre {
+0 -- 13 [label=63.0]
+63
+}
